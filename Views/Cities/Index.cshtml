@@ -1,0 +1,36 @@
+﻿@model IEnumerable<HelloWorld.Models.City>
+
+@{
+    ViewData["Title"] = "Cities List";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<p>
+    <a href="@Url.Action("Create")" class="btn btn-primary">Create New City</a>
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Country</th>
+            <th>Population</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var city in Model)
+        {
+            <tr>
+                <td>@city.Name</td>
+                <td>@city.Country</td>
+                <td>@city.Population</td>
+                <td>
+                    <a href="@Url.Action("Edit", new { id = city.Id })" class="btn btn-warning">Edit</a>
+                    <a href="@Url.Action("Delete", new { id = city.Id })" class="btn btn-danger">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

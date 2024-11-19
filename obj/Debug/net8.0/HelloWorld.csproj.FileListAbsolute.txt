@@ -1,0 +1,228 @@
+D:\OneDrive - Programmers.IO\PIO_Demo_Projects\HelloWorld\HelloWorld\bin\Debug\net8.0\appsettings.Development.json
+D:\OneDrive - Programmers.IO\PIO_Demo_Projects\HelloWorld\HelloWorld\bin\Debug\net8.0\appsettings.json
+D:\OneDrive - Programmers.IO\PIO_Demo_Projects\HelloWorld\HelloWorld\bin\Debug\net8.0\HelloWorld.staticwebassets.runtime.json
+D:\OneDrive - Programmers.IO\PIO_Demo_Projects\HelloWorld\HelloWorld\bin\Debug\net8.0\HelloWorld.exe
+D:\OneDrive - Programmers.IO\PIO_Demo_Projects\HelloWorld\HelloWorld\bin\Debug\net8.0\HelloWorld.deps.json
+D:\OneDrive - Programmers.IO\PIO_Demo_Projects\HelloWorld\HelloWorld\bin\Debug\net8.0\HelloWorld.runtimeconfig.json
+D:\OneDrive - Programmers.IO\PIO_Demo_Projects\HelloWorld\HelloWorld\bin\Debug\net8.0\HelloWorld.dll
+D:\OneDrive - Programmers.IO\PIO_Demo_Projects\HelloWorld\HelloWorld\bin\Debug\net8.0\HelloWorld.pdb
+D:\OneDrive - Programmers.IO\PIO_Demo_Projects\HelloWorld\HelloWorld\bin\Debug\net8.0\Humanizer.dll
+D:\OneDrive - Programmers.IO\PIO_Demo_Projects\HelloWorld\HelloWorld\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\OneDrive - Programmers.IO\PIO_Demo_Projects\HelloWorld\HelloWorld\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\OneDrive - Programmers.IO\PIO_Demo_Projects\HelloWorld\HelloWorld\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\OneDrive - Programmers.IO\PIO_Demo_Projects\HelloWorld\HelloWorld\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\OneDrive - Programmers.IO\PIO_Demo_Projects\HelloWorld\HelloWorld\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\OneDrive - Programmers.IO\PIO_Demo_Projects\HelloWorld\HelloWorld\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\OneDrive - Programmers.IO\PIO_Demo_Projects\HelloWorld\HelloWorld\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\OneDrive - Programmers.IO\PIO_Demo_Projects\HelloWorld\HelloWorld\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\OneDrive - Programmers.IO\PIO_Demo_Projects\HelloWorld\HelloWorld\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\OneDrive - Programmers.IO\PIO_Demo_Projects\HelloWorld\HelloWorld\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\OneDrive - Programmers.IO\PIO_Demo_Projects\HelloWorld\HelloWorld\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\OneDrive - Programmers.IO\PIO_Demo_Projects\HelloWorld\HelloWorld\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\OneDrive - Programmers.IO\PIO_Demo_Projects\HelloWorld\HelloWorld\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\OneDrive - Programmers.IO\PIO_Demo_Projects\HelloWorld\HelloWorld\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\OneDrive - Programmers.IO\PIO_Demo_Projects\HelloWorld\HelloWorld\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\OneDrive - Programmers.IO\PIO_Demo_Projects\HelloWorld\HelloWorld\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\OneDrive - Programmers.IO\PIO_Demo_Projects\HelloWorld\HelloWorld\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\OneDrive - Programmers.IO\PIO_Demo_Projects\HelloWorld\HelloWorld\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\OneDrive - Programmers.IO\PIO_Demo_Projects\HelloWorld\HelloWorld\bin\Debug\net8.0\System.CodeDom.dll
+D:\OneDrive - Programmers.IO\PIO_Demo_Projects\HelloWorld\HelloWorld\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\OneDrive - Programmers.IO\PIO_Demo_Projects\HelloWorld\HelloWorld\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\OneDrive - Programmers.IO\PIO_Demo_Projects\HelloWorld\HelloWorld\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\OneDrive - Programmers.IO\PIO_Demo_Projects\HelloWorld\HelloWorld\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\OneDrive - Programmers.IO\PIO_Demo_Projects\HelloWorld\HelloWorld\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\OneDrive - Programmers.IO\PIO_Demo_Projects\HelloWorld\HelloWorld\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive - Programmers.IO\PIO_Demo_Projects\HelloWorld\HelloWorld\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive - Programmers.IO\PIO_Demo_Projects\HelloWorld\HelloWorld\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive - Programmers.IO\PIO_Demo_Projects\HelloWorld\HelloWorld\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive - Programmers.IO\PIO_Demo_Projects\HelloWorld\HelloWorld\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive - Programmers.IO\PIO_Demo_Projects\HelloWorld\HelloWorld\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive - Programmers.IO\PIO_Demo_Projects\HelloWorld\HelloWorld\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive - Programmers.IO\PIO_Demo_Projects\HelloWorld\HelloWorld\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive - Programmers.IO\PIO_Demo_Projects\HelloWorld\HelloWorld\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive - Programmers.IO\PIO_Demo_Projects\HelloWorld\HelloWorld\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive - Programmers.IO\PIO_Demo_Projects\HelloWorld\HelloWorld\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive - Programmers.IO\PIO_Demo_Projects\HelloWorld\HelloWorld\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive - Programmers.IO\PIO_Demo_Projects\HelloWorld\HelloWorld\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive - Programmers.IO\PIO_Demo_Projects\HelloWorld\HelloWorld\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive - Programmers.IO\PIO_Demo_Projects\HelloWorld\HelloWorld\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive - Programmers.IO\PIO_Demo_Projects\HelloWorld\HelloWorld\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive - Programmers.IO\PIO_Demo_Projects\HelloWorld\HelloWorld\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive - Programmers.IO\PIO_Demo_Projects\HelloWorld\HelloWorld\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive - Programmers.IO\PIO_Demo_Projects\HelloWorld\HelloWorld\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive - Programmers.IO\PIO_Demo_Projects\HelloWorld\HelloWorld\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive - Programmers.IO\PIO_Demo_Projects\HelloWorld\HelloWorld\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive - Programmers.IO\PIO_Demo_Projects\HelloWorld\HelloWorld\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive - Programmers.IO\PIO_Demo_Projects\HelloWorld\HelloWorld\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive - Programmers.IO\PIO_Demo_Projects\HelloWorld\HelloWorld\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive - Programmers.IO\PIO_Demo_Projects\HelloWorld\HelloWorld\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive - Programmers.IO\PIO_Demo_Projects\HelloWorld\HelloWorld\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive - Programmers.IO\PIO_Demo_Projects\HelloWorld\HelloWorld\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive - Programmers.IO\PIO_Demo_Projects\HelloWorld\HelloWorld\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive - Programmers.IO\PIO_Demo_Projects\HelloWorld\HelloWorld\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive - Programmers.IO\PIO_Demo_Projects\HelloWorld\HelloWorld\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive - Programmers.IO\PIO_Demo_Projects\HelloWorld\HelloWorld\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive - Programmers.IO\PIO_Demo_Projects\HelloWorld\HelloWorld\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive - Programmers.IO\PIO_Demo_Projects\HelloWorld\HelloWorld\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive - Programmers.IO\PIO_Demo_Projects\HelloWorld\HelloWorld\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive - Programmers.IO\PIO_Demo_Projects\HelloWorld\HelloWorld\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive - Programmers.IO\PIO_Demo_Projects\HelloWorld\HelloWorld\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive - Programmers.IO\PIO_Demo_Projects\HelloWorld\HelloWorld\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive - Programmers.IO\PIO_Demo_Projects\HelloWorld\HelloWorld\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive - Programmers.IO\PIO_Demo_Projects\HelloWorld\HelloWorld\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive - Programmers.IO\PIO_Demo_Projects\HelloWorld\HelloWorld\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive - Programmers.IO\PIO_Demo_Projects\HelloWorld\HelloWorld\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive - Programmers.IO\PIO_Demo_Projects\HelloWorld\HelloWorld\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive - Programmers.IO\PIO_Demo_Projects\HelloWorld\HelloWorld\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive - Programmers.IO\PIO_Demo_Projects\HelloWorld\HelloWorld\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive - Programmers.IO\PIO_Demo_Projects\HelloWorld\HelloWorld\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive - Programmers.IO\PIO_Demo_Projects\HelloWorld\HelloWorld\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive - Programmers.IO\PIO_Demo_Projects\HelloWorld\HelloWorld\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive - Programmers.IO\PIO_Demo_Projects\HelloWorld\HelloWorld\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive - Programmers.IO\PIO_Demo_Projects\HelloWorld\HelloWorld\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive - Programmers.IO\PIO_Demo_Projects\HelloWorld\HelloWorld\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive - Programmers.IO\PIO_Demo_Projects\HelloWorld\HelloWorld\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive - Programmers.IO\PIO_Demo_Projects\HelloWorld\HelloWorld\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive - Programmers.IO\PIO_Demo_Projects\HelloWorld\HelloWorld\obj\Debug\net8.0\HelloWorld.csproj.AssemblyReference.cache
+D:\OneDrive - Programmers.IO\PIO_Demo_Projects\HelloWorld\HelloWorld\obj\Debug\net8.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - Programmers.IO\PIO_Demo_Projects\HelloWorld\HelloWorld\obj\Debug\net8.0\HelloWorld.AssemblyInfoInputs.cache
+D:\OneDrive - Programmers.IO\PIO_Demo_Projects\HelloWorld\HelloWorld\obj\Debug\net8.0\HelloWorld.AssemblyInfo.cs
+D:\OneDrive - Programmers.IO\PIO_Demo_Projects\HelloWorld\HelloWorld\obj\Debug\net8.0\HelloWorld.csproj.CoreCompileInputs.cache
+D:\OneDrive - Programmers.IO\PIO_Demo_Projects\HelloWorld\HelloWorld\obj\Debug\net8.0\HelloWorld.MvcApplicationPartsAssemblyInfo.cache
+D:\OneDrive - Programmers.IO\PIO_Demo_Projects\HelloWorld\HelloWorld\obj\Debug\net8.0\HelloWorld.RazorAssemblyInfo.cache
+D:\OneDrive - Programmers.IO\PIO_Demo_Projects\HelloWorld\HelloWorld\obj\Debug\net8.0\HelloWorld.RazorAssemblyInfo.cs
+D:\OneDrive - Programmers.IO\PIO_Demo_Projects\HelloWorld\HelloWorld\obj\Debug\net8.0\staticwebassets.build.json
+D:\OneDrive - Programmers.IO\PIO_Demo_Projects\HelloWorld\HelloWorld\obj\Debug\net8.0\staticwebassets.development.json
+D:\OneDrive - Programmers.IO\PIO_Demo_Projects\HelloWorld\HelloWorld\obj\Debug\net8.0\staticwebassets\msbuild.HelloWorld.Microsoft.AspNetCore.StaticWebAssets.props
+D:\OneDrive - Programmers.IO\PIO_Demo_Projects\HelloWorld\HelloWorld\obj\Debug\net8.0\staticwebassets\msbuild.build.HelloWorld.props
+D:\OneDrive - Programmers.IO\PIO_Demo_Projects\HelloWorld\HelloWorld\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.HelloWorld.props
+D:\OneDrive - Programmers.IO\PIO_Demo_Projects\HelloWorld\HelloWorld\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.HelloWorld.props
+D:\OneDrive - Programmers.IO\PIO_Demo_Projects\HelloWorld\HelloWorld\obj\Debug\net8.0\staticwebassets.pack.json
+D:\OneDrive - Programmers.IO\PIO_Demo_Projects\HelloWorld\HelloWorld\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\OneDrive - Programmers.IO\PIO_Demo_Projects\HelloWorld\HelloWorld\obj\Debug\net8.0\scopedcss\bundle\HelloWorld.styles.css
+D:\OneDrive - Programmers.IO\PIO_Demo_Projects\HelloWorld\HelloWorld\obj\Debug\net8.0\scopedcss\projectbundle\HelloWorld.bundle.scp.css
+D:\OneDrive - Programmers.IO\PIO_Demo_Projects\HelloWorld\HelloWorld\obj\Debug\net8.0\HelloWorld.csproj.Up2Date
+D:\OneDrive - Programmers.IO\PIO_Demo_Projects\HelloWorld\HelloWorld\obj\Debug\net8.0\HelloWorld.dll
+D:\OneDrive - Programmers.IO\PIO_Demo_Projects\HelloWorld\HelloWorld\obj\Debug\net8.0\refint\HelloWorld.dll
+D:\OneDrive - Programmers.IO\PIO_Demo_Projects\HelloWorld\HelloWorld\obj\Debug\net8.0\HelloWorld.pdb
+D:\OneDrive - Programmers.IO\PIO_Demo_Projects\HelloWorld\HelloWorld\obj\Debug\net8.0\HelloWorld.genruntimeconfig.cache
+D:\OneDrive - Programmers.IO\PIO_Demo_Projects\HelloWorld\HelloWorld\obj\Debug\net8.0\ref\HelloWorld.dll
+D:\OneDrive - Programmers.IO\PIO_Demo_Projects\HelloWorld\HelloWorld\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\OneDrive - Programmers.IO\PIO_Demo_Projects\HelloWorld\HelloWorld\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\OneDrive - Programmers.IO\PIO_Demo_Projects\HelloWorld\HelloWorld\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\OneDrive - Programmers.IO\PIO_Demo_Projects\HelloWorld\HelloWorld\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\OneDrive - Programmers.IO\PIO_Demo_Projects\HelloWorld\HelloWorld\obj\Debug\net8.0\HelloWorld.MvcApplicationPartsAssemblyInfo.cs
+D:\Projects\HelloWorld\bin\Debug\net8.0\appsettings.Development.json
+D:\Projects\HelloWorld\bin\Debug\net8.0\appsettings.json
+D:\Projects\HelloWorld\bin\Debug\net8.0\HelloWorld.staticwebassets.runtime.json
+D:\Projects\HelloWorld\bin\Debug\net8.0\HelloWorld.exe
+D:\Projects\HelloWorld\bin\Debug\net8.0\HelloWorld.deps.json
+D:\Projects\HelloWorld\bin\Debug\net8.0\HelloWorld.runtimeconfig.json
+D:\Projects\HelloWorld\bin\Debug\net8.0\HelloWorld.dll
+D:\Projects\HelloWorld\bin\Debug\net8.0\HelloWorld.pdb
+D:\Projects\HelloWorld\bin\Debug\net8.0\Humanizer.dll
+D:\Projects\HelloWorld\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Projects\HelloWorld\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Projects\HelloWorld\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Projects\HelloWorld\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Projects\HelloWorld\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Projects\HelloWorld\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Projects\HelloWorld\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Projects\HelloWorld\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Projects\HelloWorld\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\Projects\HelloWorld\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Projects\HelloWorld\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Projects\HelloWorld\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Projects\HelloWorld\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Projects\HelloWorld\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Projects\HelloWorld\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\Projects\HelloWorld\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Projects\HelloWorld\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Projects\HelloWorld\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Projects\HelloWorld\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Projects\HelloWorld\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Projects\HelloWorld\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Projects\HelloWorld\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Projects\HelloWorld\bin\Debug\net8.0\System.CodeDom.dll
+D:\Projects\HelloWorld\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Projects\HelloWorld\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Projects\HelloWorld\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Projects\HelloWorld\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Projects\HelloWorld\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Projects\HelloWorld\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\HelloWorld\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\HelloWorld\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\HelloWorld\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\HelloWorld\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\HelloWorld\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\HelloWorld\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\HelloWorld\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\HelloWorld\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\HelloWorld\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\HelloWorld\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\HelloWorld\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\HelloWorld\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\HelloWorld\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\HelloWorld\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\HelloWorld\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\HelloWorld\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\HelloWorld\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\HelloWorld\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\HelloWorld\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\HelloWorld\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\HelloWorld\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\HelloWorld\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\HelloWorld\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\HelloWorld\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\HelloWorld\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\HelloWorld\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\HelloWorld\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\HelloWorld\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\HelloWorld\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\HelloWorld\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\HelloWorld\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\HelloWorld\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\HelloWorld\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\HelloWorld\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\HelloWorld\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\HelloWorld\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\HelloWorld\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\HelloWorld\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\HelloWorld\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\HelloWorld\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\HelloWorld\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\HelloWorld\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\HelloWorld\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\HelloWorld\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\HelloWorld\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\HelloWorld\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\HelloWorld\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\HelloWorld\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\HelloWorld\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\HelloWorld\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\HelloWorld\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\HelloWorld\obj\Debug\net8.0\HelloWorld.csproj.AssemblyReference.cache
+D:\Projects\HelloWorld\obj\Debug\net8.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\HelloWorld\obj\Debug\net8.0\HelloWorld.AssemblyInfoInputs.cache
+D:\Projects\HelloWorld\obj\Debug\net8.0\HelloWorld.AssemblyInfo.cs
+D:\Projects\HelloWorld\obj\Debug\net8.0\HelloWorld.csproj.CoreCompileInputs.cache
+D:\Projects\HelloWorld\obj\Debug\net8.0\HelloWorld.MvcApplicationPartsAssemblyInfo.cs
+D:\Projects\HelloWorld\obj\Debug\net8.0\HelloWorld.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects\HelloWorld\obj\Debug\net8.0\HelloWorld.RazorAssemblyInfo.cache
+D:\Projects\HelloWorld\obj\Debug\net8.0\HelloWorld.RazorAssemblyInfo.cs
+D:\Projects\HelloWorld\obj\Debug\net8.0\staticwebassets.build.json
+D:\Projects\HelloWorld\obj\Debug\net8.0\staticwebassets.development.json
+D:\Projects\HelloWorld\obj\Debug\net8.0\staticwebassets\msbuild.HelloWorld.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Projects\HelloWorld\obj\Debug\net8.0\staticwebassets\msbuild.build.HelloWorld.props
+D:\Projects\HelloWorld\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.HelloWorld.props
+D:\Projects\HelloWorld\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.HelloWorld.props
+D:\Projects\HelloWorld\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Projects\HelloWorld\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Projects\HelloWorld\obj\Debug\net8.0\scopedcss\bundle\HelloWorld.styles.css
+D:\Projects\HelloWorld\obj\Debug\net8.0\scopedcss\projectbundle\HelloWorld.bundle.scp.css
+D:\Projects\HelloWorld\obj\Debug\net8.0\HelloWorld.csproj.Up2Date
+D:\Projects\HelloWorld\obj\Debug\net8.0\HelloWorld.dll
+D:\Projects\HelloWorld\obj\Debug\net8.0\refint\HelloWorld.dll
+D:\Projects\HelloWorld\obj\Debug\net8.0\HelloWorld.pdb
+D:\Projects\HelloWorld\obj\Debug\net8.0\HelloWorld.genruntimeconfig.cache
+D:\Projects\HelloWorld\obj\Debug\net8.0\ref\HelloWorld.dll
